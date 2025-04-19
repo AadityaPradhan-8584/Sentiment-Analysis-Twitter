@@ -44,7 +44,7 @@ The [Sentiment140 dataset](https://www.kaggle.com/datasets/kazanova/sentiment140
 
 1. Clone the repository
 2. Open `Sentiment_140.ipynb` in Jupyter Notebook / VS Code / Google Colab
-3. Rename the dataset to original_data.csv and keep it in the same folder
+3. Rename the dataset to `original_data.csv` and keep it in the same folder
 4. Run the cells step by step
 
 ## ✍️ Author
