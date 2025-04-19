@@ -25,7 +25,7 @@ This project demonstrates sentiment analysis using the **Sentiment140 dataset**,
 .
 ├── Sentiment_140.ipynb     # Main notebook with sentiment analysis
 ├── README.md               # Project documentation
-└── (dataset link if in README)
+└── (dataset link attached below)
 ```
 
 ## 📊 Dataset
