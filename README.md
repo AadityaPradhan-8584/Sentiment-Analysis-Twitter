@@ -25,12 +25,12 @@ This project demonstrates sentiment analysis using the **Sentiment140 dataset**,
 .
 ├── Sentiment_140.ipynb     # Main notebook with sentiment analysis
 ├── README.md               # Project documentation
-└── (data folder or dataset link if used separately)
+└── (dataset link if in README)
 ```
 
 ## 📊 Dataset
 
-The [Sentiment140 dataset](http://help.sentiment140.com/for-students) includes 1.6M tweets with the following structure:
+The [Sentiment140 dataset](https://www.kaggle.com/datasets/kazanova/sentiment140/data) includes 1.6M tweets with the following structure:
 
 | Polarity | Tweet ID | Date | Query | User | Tweet |
 |----------|----------|------|-------|------|-------|
